@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p48457-e880357.adobeaemcloud.com/bin/franklin.delivery/Swapnil1194/aem-forms-eds/main
+    url: https://author-p48457-e1275402.adobeaemcloud.com/bin/franklin.delivery/Swapnil1194/aem-forms-eds/main
     type: "markup"
     suffix: ".html"
